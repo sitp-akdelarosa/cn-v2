@@ -1,0 +1,10 @@
+{
+    "/css/app.css": "/css/app.css",
+    "/js/app.js": "/js/app.js",
+    "/pages/login/login.css": "/pages/login/login.css",
+    "/pages/login/login.js": "/pages/login/login.js",
+    "/pages/home/home.css": "/pages/home/home.css",
+    "/pages/home/home.js": "/pages/home/home.js",
+    "/pages/wbs/material-receiving.css": "/pages/wbs/material-receiving.css",
+    "/pages/wbs/material-receiving.js": "/pages/wbs/material-receiving.js"
+}

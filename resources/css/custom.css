@@ -1,0 +1,43 @@
+/* here you can put your own css to customize and override the theme */
+body {
+    font-size: 11px;
+}
+
+.nav-item .title {
+    font-size: 11px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+.page-header.navbar .page-logo .logo-default {
+    margin: 3px 0 0;
+}
+
+/* Tables */
+.table td, .table th {
+    font-size: 11px;
+}
+
+/* Portlet */
+.portlet {
+    margin-bottom: 10px;
+}
+
+.portlet>.portlet-title>.caption {
+    font-size: 14px;
+}
+
+/* Input */
+.input-sm {
+    height: 27px;
+    padding: 5px 10px;
+    font-size: 10px;
+}
+
+@media (min-width: 992px) {
+    .page-content-wrapper .page-content {
+        padding: 10px 15px 5px;
+    }
+}
